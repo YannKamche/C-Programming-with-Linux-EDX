@@ -1,5 +1,5 @@
 # C-Programming-with-Linux-EDX
-Coursework for Dartmouth &amp; IMT professional certificate on edX
+Coursework for Dartmouth &amp; IMT professional certificate on edX I completed
 ## Module 1: Getting Started
 ## Module 2: Language Foundations
 ## Module 3: Modular Programming and Memory Management
